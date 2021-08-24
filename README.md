@@ -1,6 +1,6 @@
 # Hello World, I'm Luiz! 🌎
 
-I’m currently working as a Java Developer on the company GW Sistemas and studying Analysis and Systems Development.
+I’m currently working as a Java Developer on the company Compasso UOL and studying Analysis and Systems Development.
 ##
 
 ![LuizHBasilio GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHBasilio&show_icons=true&theme=dark)
