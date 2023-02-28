@@ -21,26 +21,26 @@ I'm a Java Developer at Compasso UOL and a student of Analysis and Systems Devel
 ### Skills and Tools</br>
 
 <a target="_blank" href="https://docs.oracle.com/en/java/">
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+<img align="left" alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </a>
 <a target="_blank" href="https://code.visualstudio.com/">
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img align="left" alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </a>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img align="left" alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </a>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+<img align="left" alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </a>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+<img align="left" alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </a>
 <a target="_blank" href="https://git-scm.com/">
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </a>
 <a target="_blank" href="https://www.kernel.org/">
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</a>
+<img align="left" alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+</a></br>
 
 ### Let's work together!
 
