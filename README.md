@@ -1,13 +1,11 @@
-# Hello World, I'm Luiz! 🌎
+## Hi there, I'm Luiz! 🌎
 
-I’m currently working as a Java Developer on the company Compasso UOL and studying Analysis and Systems Development.
-##
+I'm a Java Developer at Compasso UOL and a student of Analysis and Systems Development. I'm passionate about software development and enjoy working on challenging projects that help me grow as a developer.
 
 ![LuizHBasilio GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHBasilio&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHBasilio&layout=compact&show_icons=true&theme=dark)
 
-##
-Connect with me:
+### Connect with me
 
 <a target="_blank" href="https://www.linkedin.com/in/luiz-henrique-oliveira-8488ba120/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,34 +18,30 @@ Connect with me:
 </a></br>
 
 
-##
-Languages and Tools</br>
+### Skills and Tools</br>
 
-
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
+<a target="_blank" href="https://docs.oracle.com/en/java/">
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
+</a>
+<a target="_blank" href="https://code.visualstudio.com/">
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
+</a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
+</a>
+<a target="_blank" href="https://git-scm.com/">
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
+</a>
+<a target="_blank" href="https://www.kernel.org/">
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+</a>
+
+### Let's work together!
+
+If you're interested in collaborating on a project or want to connect, feel free to reach out to me. I'd love to hear from you!
