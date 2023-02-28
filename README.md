@@ -1,6 +1,6 @@
 ## Hi there, I'm Luiz! 🌎
 
-I'm a Java Developer at Compasso UOL and a student of Analysis and Systems Development. I'm passionate about software development and enjoy working on challenging projects that help me grow as a developer.
+I'm a Java Developer at Fundação para Inovações Tecnológicas - FITec and a student of Analysis and Systems Development. I'm passionate about software development and enjoy working on challenging projects that help me grow as a developer.
 
 ![LuizHBasilio GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHBasilio&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHBasilio&layout=compact&show_icons=true&theme=dark)
